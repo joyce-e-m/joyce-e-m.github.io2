@@ -1,6 +1,6 @@
 # First Post
 
-1. TOC
+TOC
 {:toc}
 
 ## Setting up a blog page in GitHub
