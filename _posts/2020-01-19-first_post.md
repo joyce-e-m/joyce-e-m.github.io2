@@ -7,6 +7,13 @@
 
 Hopefully this will become second nature to me! 
 
-## Exploring interesting areas of M
+## Exploring interesting areas of ML
 
 Where do I start???
+
+## Using Maths Formulae
+
+For example:
+$$
+\sum_n (x)
+$$
