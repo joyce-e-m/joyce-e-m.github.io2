@@ -1,4 +1,4 @@
-# Creating a Blog in Word
+# Contains an image
 
 ## Rugby
 
