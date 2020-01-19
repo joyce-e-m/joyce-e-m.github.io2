@@ -4,4 +4,4 @@
 
 This takes a bit of practice\!
 
-![](name//images/media/image1.jpeg)
+![](images/media/image1.jpeg)
